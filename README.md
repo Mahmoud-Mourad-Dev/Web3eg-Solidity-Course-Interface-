@@ -1,1 +1,1 @@
-# Solidity-auidit
+# Solidity-Course-Smart-Contract-By-Examples

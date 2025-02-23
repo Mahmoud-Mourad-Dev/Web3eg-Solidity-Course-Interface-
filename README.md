@@ -1,4 +1,4 @@
-# Web3eg Solidity-Course-Smart-Contract-By-Examples
+# Web3eg Solidity-Course-Smart-Contract-Interface 001
 ![Static Badge](https://img.shields.io/badge/Requirement-Green)
 
 ## 1- Blockchain theoretical ![Static Badge](https://img.shields.io/badge/Yes-red)
